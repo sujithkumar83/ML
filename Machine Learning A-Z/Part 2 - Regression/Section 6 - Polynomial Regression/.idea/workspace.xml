@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-14" />
     <option name="y" value="-14" />
     <option name="width" value="2520" />
@@ -114,18 +114,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1293" height="773" extended-state="7" />
+    <frame x="-7" y="-7" width="1293" height="773" extended-state="6" />
     <layout>
       <window_info id="Favorites" sideWeight="0.501292" side_tool="true" weight="0.24305004" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.24305004" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.5023148" side_tool="true" visible="true" weight="0.24305004" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984472" visible="true" weight="0.24305004" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5015528" side_tool="true" visible="true" weight="0.24305004" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.49918434" weight="0.32994923" />
       <window_info anchor="bottom" id="Python Console" sideWeight="0.49960285" weight="0.30279502" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49918434" weight="0.32919255" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50119144" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4988086" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4988086" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
