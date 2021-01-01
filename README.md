@@ -1,5 +1,5 @@
-# Machine-Learning-A-Z
-Machine Learning Course- Udemy
+# Machine-Learning
+
 
 ## Content Page 
 
